@@ -2,5 +2,8 @@
     "name": "node-server",
     "version": "0.0.1",
     "main": "index.js",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^14.10.1"
+    }
 }
